@@ -1,2 +1,0 @@
-# Blade
-Roblox Script
